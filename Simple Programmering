@@ -1,0 +1,72 @@
+Forklaringer:
+
+Instruktion:
+Instruktioner er et stykke kode som beskriver den udførsel der er.
+
+Sekvens:
+En sekvens går ud på at der er en række af instruktioner som udføres efter hinanden
+
+Funktion:
+En funktion er en måde at løse komplekse problemer med.
+
+Kontrolstruktur:
+Måde at styre programmet på
+
+Betingelser:
+Noget der fortæller koden hvordan den tager stilling til det den skal.
+
+Forgrening:
+Et antal muligheder, som enten kan være sande eller falske
+
+Løkke:
+Når en stykke kode repeteres igen og igen, som en vandets kredsløb.
+
+Variabel:
+En variabel er 1 eller flere bogstaver
+
+Initiering:
+Give en datatype en start værdi
+
+Deklaration:
+En forklaring på hvilke datatyper det er
+
+Parameter:
+
+Ikke primitive:
+String:
+Samling af bogstaver
+
+Array:
+En array er en liste af data
+
+Klasser:
+Det er nogle defineret data typer, af ”useren”
+
+Interfaces:
+Tilgang til en klasse
+
+Primitive:
+
+Int:
+Hele tal
+
+Float:
+Komma tal
+
+Char:
+Bogstav
+
+Boolean:
+Datatype med 2 værdier som er ”true” eller ”false”
+
+Byte:
+Værdier mellem 127 og -128, som er 255 i alt. Mindre end integer men ikke så stor en variation.
+
+Short:
+Short er en datatype som er mindre end integers
+
+Long:
+Long er en datatyper som er større end integers
+
+Double:
+Et længere float, mere præcis 
